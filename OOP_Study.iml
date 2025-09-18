@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/1week" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2week" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/homework" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3week" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="21" jdkType="JavaSDK" />
     <orderEntry type="inheritedJdk" />
