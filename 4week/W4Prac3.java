@@ -11,15 +11,32 @@ public class W4Prac3 {
             if (Objects.equals(input, "종료")) {
                 break;
             }
-            if (Objects.equals(input, "prime")) {
-                System.out.print("prime 좌석의 가격은 11000원 입니다.\n");
-            } else if (Objects.equals(input, "standard")){
-                System.out.print("standard 좌석의 가격은 10000원 입니다.\n");
-            } else if (Objects.equals(input, "economy")){
-                System.out.print("economy 좌석의 가격은 9000원 입니다.\n");
-            } else {
-                System.out.printf("%s라는 좌석은 존재하지 않습니다.\n", input);
+            switch (input) {
+                case "prime": {
+                    System.out.print("prime 좌석의 가격은 11000원 입니다.\n");
+                    break;
+                }
+                case "standard": {
+                    System.out.print("standard 좌석의 가격은 10000원 입니다.\n");
+                    break;
+                }
+                case "economy": {
+                    System.out.print("economy 좌석의 가격은 9000원 입니다.\n");
+                    break;
+                }
+                default:{
+                    System.out.print("좌석 종류를 잘못 입력했습니다.\n");
+                }
             }
+//            if (Objects.equals(input, "prime")) {
+//                System.out.print("prime 좌석의 가격은 11000원 입니다.\n");
+//            } else if (Objects.equals(input, "standard")){
+//                System.out.print("standard 좌석의 가격은 10000원 입니다.\n");
+//            } else if (Objects.equals(input, "economy")){
+//                System.out.print("economy 좌석의 가격은 9000원 입니다.\n");
+//            } else {
+//                System.out.printf("%s라는 좌석은 존재하지 않습니다.\n", input);
+//            }
         }
     }
 }
