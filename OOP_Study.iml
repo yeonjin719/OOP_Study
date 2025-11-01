@@ -12,6 +12,11 @@
       <sourceFolder url="file://$MODULE_DIR$/assignment" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/6week" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/self_study" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9week" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9week/com" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9week/com/my" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9week/com/my/app" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9week/com/my/hello" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="21" jdkType="JavaSDK" />
     <orderEntry type="inheritedJdk" />
