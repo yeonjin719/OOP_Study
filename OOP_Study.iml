@@ -17,6 +17,7 @@
       <sourceFolder url="file://$MODULE_DIR$/9week/com/my" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/9week/com/my/app" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/9week/com/my/hello" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10week" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="21" jdkType="JavaSDK" />
     <orderEntry type="inheritedJdk" />
